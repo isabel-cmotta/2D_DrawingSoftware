@@ -4,7 +4,7 @@ The project consists of developing an environment to create and edit primitive t
 
 This project was made in Java in BlueJ for the Computer Graphics and Image Processing class of the 4th semester of the Computer Science course at PUC-SP.
 
-##Installation
+## Installation
 
 Download the folder ***2D_Drawing_Software*** and extract all the files. 
 

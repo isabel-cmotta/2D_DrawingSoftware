@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Gui
+comment1.params=larg\ alt
+comment1.target=Gui(int,\ int)
+comment1.text=\r\n\ Constroi\ a\ GUI\r\n\r\n\ @param\ larg\ largura\ da\ janela\r\n\ @param\ alt\ altura\ da\ janela\r\n
+comment2.params=e
+comment2.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=void\ adicionaFigurasMenu()
+comment5.params=
+comment5.target=void\ transformacao_geometrica()
+numComments=6
